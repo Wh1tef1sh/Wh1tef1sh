@@ -1,7 +1,8 @@
 <div align="center">
-
-# Hi, I'm Whitefish 🌊
+<img width="600" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=42A5F5&width=435&lines=Hi%2C+I'm+Whitefish+%F0%9F%8C%8A;A+whitefish+drifting+amid+wuthering+waves">
+<br>
 > A whitefish drifting amid wuthering waves, striving to grow into a mighty leviathan.
+</div>
 
 <br>
 
@@ -9,6 +10,10 @@
 <a href="https://space.bilibili.com/517812164"><img src="https://img.shields.io/badge/Bilibili-哔哩哔哩-00A1D6?logo=bilibili&logoColor=white&style=for-the-badge"></a>
 <a href="https://wpa.qq.com/wpa?uin=3466822618"><img src="https://img.shields.io/badge/QQ-3466822618-12B7F5?logo=tencentqq&logoColor=white&style=for-the-badge"></a>
 </div>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Wh1tef1sh&color=blueviolet&style=flat-square" alt="views"/>
+</p>
 
 <br>
 
@@ -23,4 +28,9 @@
 
 
 
-</div>
+<br>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Wh1tef1sh&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wh1tef1sh&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
