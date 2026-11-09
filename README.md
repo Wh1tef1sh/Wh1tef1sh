@@ -1,8 +1,10 @@
 <div align="center">
 <img width="320" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=42A5F5&width=300&lines=Hi%2C+I'm+Whitefish+%F0%9F%8C%8A" alt="typing1">
-<br>
-<img width="720" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=42A5F5&width=700&lines=A+whitefish+drifting+amid+wuthering+waves%2C+striving+to+grow+into+a+mighty+leviathan." alt="typing2">
 </div>
+
+<p align="center">
+> A whitefish drifting amid wuthering waves, striving to grow into a mighty leviathan.
+</p>
 
 <br>
 
