@@ -1,5 +1,5 @@
 <div align="center">
-<img width="600" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=42A5F5&width=435&lines=Hi%2C+I'm+Whitefish+%F0%9F%8C%8A;A+whitefish+drifting+amid+wuthering+waves">
+<img width="750" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=42A5F5&width=720&lines=Hi%2C+I'm+Whitefish+%F0%9F%8C%8A;A+whitefish+drifting+amid+wuthering+waves%2C+striving+to+grow+into+a+mighty+leviathan.">
 <br>
 > A whitefish drifting amid wuthering waves, striving to grow into a mighty leviathan.
 </div>
