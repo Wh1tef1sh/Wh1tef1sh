@@ -31,6 +31,6 @@
 <br>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Wh1tef1sh&show_icons=true&theme=tokyonight&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wh1tef1sh&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.mengguyi.com/api?username=Wh1tef1sh&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.mengguyi.com/api/top-langs/?username=Wh1tef1sh&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
